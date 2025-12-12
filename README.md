@@ -1,2 +1,3 @@
 # Ultracoin
 Ultracoin
+Ultra
